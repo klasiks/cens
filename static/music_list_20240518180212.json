@@ -1,0 +1,128 @@
+[
+    {
+        "id": "9527",
+        "name": "Github 歌单",
+        "cover": "images/album.png",
+        "creatorName": "EXP",
+        "creatorAvatar": "images/avatar.jpg",
+        "item": [
+            {
+                "id": "67280f63c31b907d209ced624df2f483",
+                "name": "500 Yil - Mehmutsulayman",
+                "artist": "",
+                "album": "",
+                "url": "static/500 Yil - Mehmutsulayman.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "67280f63c31b907d209ced624df2f483",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "2ae45a2aa0d315f025e45990cf30318a",
+                "name": "Bizning Naxshimiz - Dutar",
+                "artist": "",
+                "album": "",
+                "url": "static/Bizning Naxshimiz - Dutar.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "2ae45a2aa0d315f025e45990cf30318a",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "b2e05562115c8ec0628beed294817b9f",
+                "name": "Children01",
+                "artist": "",
+                "album": "",
+                "url": "static/Children01.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "b2e05562115c8ec0628beed294817b9f",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "4dc28f473caedcbbf00f4155defd773b",
+                "name": "Children02",
+                "artist": "",
+                "album": "",
+                "url": "static/Children02.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "4dc28f473caedcbbf00f4155defd773b",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "b3893537417612ff5bd2a9654a359a51",
+                "name": "Kucha Song01",
+                "artist": "",
+                "album": "",
+                "url": "static/Kucha Song01.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "b3893537417612ff5bd2a9654a359a51",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "f934d97939ec538f5095872e71d854d4",
+                "name": "Kucha Song02",
+                "artist": "",
+                "album": "",
+                "url": "static/Kucha Song02.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "f934d97939ec538f5095872e71d854d4",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "c90e5ba305a2fb8c429477e70d717396",
+                "name": "Sit Ganggung01",
+                "artist": "",
+                "album": "",
+                "url": "static/Sit Ganggung01.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "c90e5ba305a2fb8c429477e70d717396",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "3b2d50354614571c05fed25291cafbd7",
+                "name": "Sit Ganggung02",
+                "artist": "",
+                "album": "",
+                "url": "static/Sit Ganggung02.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "3b2d50354614571c05fed25291cafbd7",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "f2a29e554f71574cf386f5eb828f8cb8",
+                "name": "Térek Bostan",
+                "artist": "",
+                "album": "",
+                "url": "static/Térek Bostan.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "f2a29e554f71574cf386f5eb828f8cb8",
+                "pic_id": "",
+                "lyric_id": ""
+            }
+        ]
+    }
+]
